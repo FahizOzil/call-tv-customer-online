@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
-import Navbar from "../Components/Navbar";
+
 
 // ── Scroll-reveal hook ──────────────────────────────────
 function useInView(threshold = 0.15) {
