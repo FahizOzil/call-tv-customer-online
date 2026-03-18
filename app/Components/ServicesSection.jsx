@@ -1,16 +1,5 @@
-// InfoCards.jsx
-// -------------------------------------------------------
-// Section 2 (middle of page) — "Why Connectivity Knowledge Matters" cards
-// Layout: vertical stack of 4 white rounded cards on a light-gray background
-// -------------------------------------------------------
-// Usage:
-//   import InfoCards from "@/components/InfoCards";
-//   <InfoCards />
-// -------------------------------------------------------
-
 import React from "react";
 
-// ── Edit card content here ─────────────────────────────
 const cards = [
   {
     title: "Why Connectivity Knowledge Matters",

@@ -5,7 +5,6 @@ import Navbar from "../Components/Navbar";
 import AboutPage from "../Components/About";
 
 
-
 export default function Home() {
   return (
     <>
